@@ -1,11 +1,11 @@
 Face Anti-Spoofing
 
-This repository contains a Jupyter Notebook for **Face Anti-Spoofing (Replay Attack Detection)** — a machine learning approach to differentiate between real and fake (spoofed) faces using image/video features.
+This repository contains a Jupyter Notebook for **Face Anti-Spoofing (Replay Attack Detection)** a machine learning approach to differentiate between real and fake (spoofed) faces using image/video features.
 
 Project Overview
 Face spoofing is a major security threat in biometric authentication systems. This project aims to detect replay attacks (using photos or videos to trick facial recognition) using classical and deep learning-based methods.
 
-The notebook Class_Replay_Attack.ipynb demonstrates the workflow from data preprocessing to model evaluation.
+The notebook **`Class_Replay_Attack.ipynb`** demonstrates the workflow from data preprocessing to model evaluation.
 
 Features
 - Face image preprocessing and feature extraction  
